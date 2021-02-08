@@ -1,7 +1,6 @@
 # Mythic Finance
-NFT Battle Contract for $MYTHIC & $MAGIC Tokens 
 
-Burn $MAGIC to Mint a Creep & Fight Creeps to win ETH!
+Open Source Contracts for Ethereum
 
 A Deflationary MEME & NFT experiment on Ethereum 🧙
 
