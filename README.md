@@ -4,7 +4,10 @@ Open Source Contracts for Ethereum
 
 A Deflationary MEME & NFT experiment on Ethereum 🧙
 
-https://t.me/mythicfinance
 
 https://mythic.finance
+
+https://twitter.com/wizard_deVv
+
+https://t.me/mythicfinance
 
